@@ -41,7 +41,7 @@ The dashboard demonstrates the complete Business Intelligence workflow, includin
 ## Customer Report
 
 <p align="center">
-<img src="Reports/Customer_Report.png" width="95%">
+<img src="Images/Customer_Report.png" width="95%">
 </p>
 
 ---
@@ -49,7 +49,7 @@ The dashboard demonstrates the complete Business Intelligence workflow, includin
 ## Transaction Report
 
 <p align="center">
-<img src="Reports/Transaction_Report.png" width="95%">
+<img src="Images/Transaction_Report.png" width="95%">
 </p>
 
 ---
@@ -253,9 +253,10 @@ Credit-Card-Financial-Dashboard-PowerBI/
 │   ├── credit_card.csv
 │   └── Data_Dictionary.md
 │
-├── Reports/
+├── Images/
 │   ├── Customer_Report.png
 │   ├── Transaction_Report.png
+|   ├── Data Model.png
 │   └── Architecture.png
 │
 ├── Documentation/
